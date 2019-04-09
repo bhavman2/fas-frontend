@@ -1,0 +1,30 @@
+
+
+
+.App {
+  text-align: center;
+  margin: 0;
+  padding: 0;
+}
+
+.jumbotron-ctn {
+  min-height: 100vh;
+}
+
+.qr-ctn {
+  display: flex;
+  flex-direction: column;
+  width: 200px;
+  margin: 0 auto;
+  justify-content: center;
+  align-content: center;
+}
+
+.input-ctn {
+  flex-direction: row;
+  padding-top: 10px;
+}
+
+.input-field {
+  width: 130px;
+}
